@@ -1,0 +1,12 @@
+.DS_Store
+.env*
+*.key
+*.pem
+*.crt
+*.cert
+credentials.json
+service-account*.json
+*.log
+.diffmind/
+.venv/
+__pycache__/
